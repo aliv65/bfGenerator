@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{A5E6F71F-1E38-4AC7-ACB1-4F80D247E9C1}|Default">
+  <MonoDevelop.Ide.ItemProperties.bnfGenerator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScintillaNET/ScintillaNET.csproj">
+    <Files>
+      <File FileName="../../../../../Library/Frameworks/Mono.framework/Versions/4.8.0/lib/mono/xbuild/14.0/bin/Microsoft.Common.targets" Line="1" Column="1" />
+      <File FileName="ScintillaNET/ScintillaNET.csproj" Line="170" Column="1" />
+      <File FileName="bnfGenerator/bnfGenerator.csproj" Line="196" Column="1" />
+      <File FileName="ScintillaNET/ScintillaControl.cs" Line="97" Column="1" />
+      <File FileName="bnfGenerator/Conf.cs" Line="16" Column="80" />
+      <File FileName="bnfGenerator/MainForm.Designer.cs" Line="31" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

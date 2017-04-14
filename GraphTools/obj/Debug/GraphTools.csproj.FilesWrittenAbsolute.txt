@@ -1,0 +1,6 @@
+/Users/aliv/Documents/univ/GeneratorStable2013/GraphTools/bin/Debug/GraphTools.dll.mdb
+/Users/aliv/Documents/univ/GeneratorStable2013/GraphTools/bin/Debug/GraphTools.pdb
+/Users/aliv/Documents/univ/GeneratorStable2013/GraphTools/bin/Debug/GraphTools.dll
+/Users/aliv/Documents/univ/GeneratorStable2013/GraphTools/obj/Debug/GraphTools.dll
+/Users/aliv/Documents/univ/GeneratorStable2013/GraphTools/obj/Debug/GraphTools.dll.mdb
+/Users/aliv/Documents/univ/GeneratorStable2013/GraphTools/obj/Debug/GraphTools.pdb

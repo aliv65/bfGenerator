@@ -1,0 +1,10 @@
+/Users/aliv/Documents/univ/GeneratorStable2013/ScintillaNET/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/aliv/Documents/univ/GeneratorStable2013/ScintillaNET/obj/Release/Scintilla.Forms.FindControl.resources
+/Users/aliv/Documents/univ/GeneratorStable2013/ScintillaNET/obj/Release/Scintilla.Forms.FindForm.resources
+/Users/aliv/Documents/univ/GeneratorStable2013/ScintillaNET/obj/Release/Scintilla.Forms.ReplaceControl.resources
+/Users/aliv/Documents/univ/GeneratorStable2013/ScintillaNET/obj/Release/Scintilla.Forms.ReplaceForm.resources
+/Users/aliv/Documents/univ/GeneratorStable2013/ScintillaNET/obj/Release/Scintilla.Forms.GoToLineDialog.resources
+/Users/aliv/Documents/univ/GeneratorStable2013/ScintillaNET/bin/Release/ScintillaNET.dll.mdb
+/Users/aliv/Documents/univ/GeneratorStable2013/ScintillaNET/bin/Release/ScintillaNET.dll
+/Users/aliv/Documents/univ/GeneratorStable2013/ScintillaNET/obj/Release/ScintillaNET.dll
+/Users/aliv/Documents/univ/GeneratorStable2013/ScintillaNET/obj/Release/ScintillaNET.dll.mdb

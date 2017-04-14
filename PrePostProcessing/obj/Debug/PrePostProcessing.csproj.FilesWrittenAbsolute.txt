@@ -1,0 +1,6 @@
+/Users/aliv/Documents/univ/GeneratorStable2013/PrePostProcessing/bin/Debug/PrePostProcessing.exe.mdb
+/Users/aliv/Documents/univ/GeneratorStable2013/PrePostProcessing/bin/Debug/PrePostProcessing.pdb
+/Users/aliv/Documents/univ/GeneratorStable2013/PrePostProcessing/bin/Debug/PrePostProcessing.exe
+/Users/aliv/Documents/univ/GeneratorStable2013/PrePostProcessing/obj/Debug/PrePostProcessing.exe
+/Users/aliv/Documents/univ/GeneratorStable2013/PrePostProcessing/obj/Debug/PrePostProcessing.exe.mdb
+/Users/aliv/Documents/univ/GeneratorStable2013/PrePostProcessing/obj/Debug/PrePostProcessing.pdb

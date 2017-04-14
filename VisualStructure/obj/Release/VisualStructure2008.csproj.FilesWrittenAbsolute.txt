@@ -1,0 +1,9 @@
+/Users/aliv/Documents/univ/GeneratorStable2013/VisualStructure/bin/Release/VisualStructure.dll.mdb
+/Users/aliv/Documents/univ/GeneratorStable2013/VisualStructure/bin/Release/VisualStructure.dll
+/Users/aliv/Documents/univ/GeneratorStable2013/VisualStructure/obj/Release/VisualStructure.dll
+/Users/aliv/Documents/univ/GeneratorStable2013/VisualStructure/obj/Release/VisualStructure.dll.mdb
+/Users/aliv/Documents/univ/GeneratorStable2013/VisualStructure/bin/Release/Microsoft.GLEE.dll
+/Users/aliv/Documents/univ/GeneratorStable2013/VisualStructure/bin/Release/Microsoft.GLEE.Drawing.dll
+/Users/aliv/Documents/univ/GeneratorStable2013/VisualStructure/bin/Release/Microsoft.GLEE.GraphViewerGDI.dll
+/Users/aliv/Documents/univ/GeneratorStable2013/VisualStructure/bin/Release/GraphTools.dll
+/Users/aliv/Documents/univ/GeneratorStable2013/VisualStructure/bin/Release/GraphTools.dll.mdb

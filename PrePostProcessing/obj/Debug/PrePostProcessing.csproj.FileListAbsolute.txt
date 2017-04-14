@@ -1,0 +1,5 @@
+F:\gs\GeneratorStable2013\PrePostProcessing\bin\Debug\PrePostProcessing.exe
+F:\gs\GeneratorStable2013\PrePostProcessing\bin\Debug\PrePostProcessing.pdb
+F:\gs\GeneratorStable2013\PrePostProcessing\obj\Debug\ResolveAssemblyReference.cache
+F:\gs\GeneratorStable2013\PrePostProcessing\obj\Debug\PrePostProcessing.exe
+F:\gs\GeneratorStable2013\PrePostProcessing\obj\Debug\PrePostProcessing.pdb

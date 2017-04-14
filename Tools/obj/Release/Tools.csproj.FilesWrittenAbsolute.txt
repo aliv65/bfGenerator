@@ -1,0 +1,5 @@
+/Users/aliv/Documents/univ/GeneratorStable2013/Tools/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/aliv/Documents/univ/GeneratorStable2013/Tools/bin/Release/Tools.dll.mdb
+/Users/aliv/Documents/univ/GeneratorStable2013/Tools/bin/Release/Tools.dll
+/Users/aliv/Documents/univ/GeneratorStable2013/Tools/obj/Release/Tools.dll
+/Users/aliv/Documents/univ/GeneratorStable2013/Tools/obj/Release/Tools.dll.mdb

@@ -1,0 +1,5 @@
+F:\gs\GeneratorStable2013\GraphTools\bin\Debug\GraphTools.dll
+F:\gs\GeneratorStable2013\GraphTools\bin\Debug\GraphTools.pdb
+F:\gs\GeneratorStable2013\GraphTools\obj\Debug\ResolveAssemblyReference.cache
+F:\gs\GeneratorStable2013\GraphTools\obj\Debug\GraphTools.dll
+F:\gs\GeneratorStable2013\GraphTools\obj\Debug\GraphTools.pdb

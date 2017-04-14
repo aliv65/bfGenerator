@@ -1,0 +1,13 @@
+F:\gs\GeneratorStable2013\VisualStructure\bin\Debug\VisualStructure.dll
+F:\gs\GeneratorStable2013\VisualStructure\bin\Debug\VisualStructure.pdb
+F:\gs\GeneratorStable2013\VisualStructure\bin\Debug\GraphTools.dll
+F:\gs\GeneratorStable2013\VisualStructure\bin\Debug\Microsoft.GLEE.dll
+F:\gs\GeneratorStable2013\VisualStructure\bin\Debug\Microsoft.GLEE.Drawing.dll
+F:\gs\GeneratorStable2013\VisualStructure\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+F:\gs\GeneratorStable2013\VisualStructure\bin\Debug\GraphTools.pdb
+F:\gs\GeneratorStable2013\VisualStructure\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+F:\gs\GeneratorStable2013\VisualStructure\bin\Debug\Microsoft.GLEE.pdb
+F:\gs\GeneratorStable2013\VisualStructure\bin\Debug\Microsoft.GLEE.Drawing.pdb
+F:\gs\GeneratorStable2013\VisualStructure\obj\Debug\ResolveAssemblyReference.cache
+F:\gs\GeneratorStable2013\VisualStructure\obj\Debug\VisualStructure.dll
+F:\gs\GeneratorStable2013\VisualStructure\obj\Debug\VisualStructure.pdb
